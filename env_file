@@ -1,0 +1,9 @@
+# Single pdf file or folder
+PDF_PATH = 
+# Use 'lattice' or 'stream'
+SEL_METHOD = 
+OUTPUT_NAME = 
+# True/False
+NEED_COMBINE = 
+START_PAGE = 
+END_PAGE = 

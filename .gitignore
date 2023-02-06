@@ -1,0 +1,8 @@
+# ignore .env files
+*.env
+
+# ignore Pipfile.lock
+*.lock
+
+# ignore ALL files in ANY directory named temp
+temp.md
