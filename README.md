@@ -1,5 +1,6 @@
 PDF-to-XLSX
 ============
+![GitHub branch checks state](https://img.shields.io/github/checks-status/guyverhl/PDF-to-XLSX/main)
 ![AppVeyor](https://img.shields.io/appveyor/build/guyverhl/PDF-to-XLSX)
 ![Depfu](https://img.shields.io/depfu/dependencies/github/PDF-to-XLSX)
 ![GitHub](https://img.shields.io/github/license/guyverhl/PDF-to-XLSX)
