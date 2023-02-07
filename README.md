@@ -3,9 +3,6 @@ PDF-to-XLSX
 [![GitHub issues](https://img.shields.io/github/issues/guyverhl/PDF-to-XLSX)](https://github.com/guyverhl/PDF-to-XLSX/issues)
 [![GitHub](https://img.shields.io/github/license/guyverhl/PDF-to-XLSX)](https://github.com/guyverhl/PDF-to-XLSX/blob/main/LICENSE)
 
-
-Foobar is a Python library for dealing with word pluralization.
-
 ## Installation
 1. Install [ghostscript] (https://www.ghostscript.com/releases/gsdnld.html) to local.
 
